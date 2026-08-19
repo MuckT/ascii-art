@@ -8,3 +8,6 @@
 # Gas City
 .beads/*
 !.beads/identity.toml
+
+# Gas City agent runtime state (per-worktree, never committed)
+.gc/
